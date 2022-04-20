@@ -1,6 +1,6 @@
 # hall_booking
 
-Heroku url: https://hall-booking-backend-app.herokuapp.com/
+Heroku url: https://mongodb-hp.herokuapp.com
 
 Method: post
 
